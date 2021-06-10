@@ -1,5 +1,6 @@
 <!--- STARTEXCLUDE --->
-# 🎓 Netflix Clone using AstraDB and GraphQL
+# Hi !! I have created a Netflix clone App
+# and this is how I created my own Netflix Clone using AstraDB and GraphQL
 
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/from-referrer/)
 [![License Apache2](https://img.shields.io/hexpm/l/plug.svg)](http://www.apache.org/licenses/LICENSE-2.0)
